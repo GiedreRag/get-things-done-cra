@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
 import style from './Auth.module.css';
-import logo from '../assets/img/logo.png';
 
 export function Login() {
     return (

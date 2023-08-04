@@ -1,5 +1,4 @@
 import { Link, useParams } from 'react-router-dom';
-import style from './Welcome.module.css';
 import { tasksData } from '../data/tasks';
 
 export function Task() {
